@@ -8,6 +8,7 @@ def sayhi(name):
     print('Second change')
     change after rollback
     print('Second ----change')
-    lalalal
+    bugfix-sovled..
 
-def dev_test():pass 
+def dev_test():
+    bug-fix-102
